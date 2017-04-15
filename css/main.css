@@ -1,8 +1,12 @@
-body {
+﻿body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
-  color: #eee;
-  background-color: #000;
+  /*color: #eee;*/
+  color: #555;
+  /*background-color: #000;*/
+  /*background-color: rgb(48,55,61);*/
+  /*background-color: rgb(217, 221, 225);*/
+    background-color: rgb(238, 238, 238);
 }
 p {
   line-height: 1.5;
@@ -115,7 +119,7 @@ hr.small {
   .navbar-custom.is-fixed .navbar-brand:hover {
     color: #0085a1;
   }
-  
+
   .navbar-custom.is-fixed .nav li a:hover {
     color: #0085a1;
   }
@@ -269,6 +273,7 @@ hr.small {
 }
 footer {
   margin: -30px 0 0px;
+  background-color: rgb(223, 223, 223);
 }
 footer .list-inline {
   margin: 0;
@@ -403,6 +408,6 @@ body {
   webkit-tap-highlight-color: #0085a1;
 }
 .fa-stack-2x {
- color: black;
+ color: #555;
 }
 
