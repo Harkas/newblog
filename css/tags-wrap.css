@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 ﻿.tags-wrap {
     max-width: 1000px;
     margin: auto;
 }
 
 
+=======
+.tags-wrap {
+    max-width: 1200px;
+    margin: auto;
+}
+
+>>>>>>> parent of 7b4a848... add post_contant color
 .categories .category-list {
   list-style: none;
   text-align: center;
@@ -33,7 +41,4 @@ hr.medium {
     margin: 15px auto;
     border-width: 4px;
     border-color: #d9d4d0;
-}
-.row .post_contant {
-background-color: #eee;
 }
