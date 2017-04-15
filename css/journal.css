@@ -1,4 +1,4 @@
-.section--postsWrapper
+﻿.section--postsWrapper
 {
     width: 100%;
     /*background: #000;*/
@@ -128,7 +128,8 @@
 .blockGroup-list .postArticle-wrapper
 {
     position: relative;
-    background: #000;
+/*    background: #000;*/
+    background: rgb(240,240,240);
     width: 100%;
     -webkit-box-shadow: 4px 4px 4px 4px rgba(255, 255, 255, 0);
     box-shadow: 4px 4px 4px 4px rgba(255, 255, 255, 0);
