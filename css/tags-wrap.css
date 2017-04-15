@@ -1,11 +1,9 @@
 ﻿.tags-wrap {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: auto;
 }
 
-.post_contant {
-background-color: #eee;
-}
+
 .categories .category-list {
   list-style: none;
   text-align: center;
@@ -35,4 +33,7 @@ hr.medium {
     margin: 15px auto;
     border-width: 4px;
     border-color: #d9d4d0;
+}
+.row .post_contant {
+background-color: #eee;
 }
