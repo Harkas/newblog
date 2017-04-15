@@ -1,7 +1,8 @@
 .section--postsWrapper
 {
     width: 100%;
-    background: #000;
+    /*background: #000;*/
+    background: rgb(223, 223, 223);
     padding-top: 20px;
     position: relative;
     clear: both;
