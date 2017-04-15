@@ -1,10 +1,11 @@
-
+﻿
 /*-----------------*/
 /***** Selena *****/
 /*-----------------*/
 
 figure.effect-selena {
-	background: #530720;
+/*	background: #530720;*/
+	background-color: rgb(223, 223, 223);
 }
 
 figure.effect-selena img {
