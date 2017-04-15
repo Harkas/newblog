@@ -1,8 +1,11 @@
-.tags-wrap {
+﻿.tags-wrap {
     max-width: 1200px;
     margin: auto;
 }
 
+.post_contant {
+background-color: #eee;
+}
 .categories .category-list {
   list-style: none;
   text-align: center;
